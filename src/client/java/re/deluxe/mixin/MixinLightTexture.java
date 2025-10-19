@@ -19,7 +19,7 @@ public class MixinLightTexture implements LightmapAccess {
     @Shadow
     private DynamicTexture lightTexture;
     @Shadow
-    private float blockLightRedFlicker;
+    private float blockLightRedFlicker; // AAAAAAAA
     @Shadow
     private boolean updateLightTexture;
 
