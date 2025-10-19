@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "re.deluxe.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "MixinDynamicTexture",
+    "MixinGameRenderer",
+    "MixinLightTexture"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}
