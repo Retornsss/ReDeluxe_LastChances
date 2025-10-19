@@ -38,7 +38,7 @@ import re.deluxe.TextureAccess;
 @Mixin(DynamicTexture.class)
 public class MixinDynamicTexture implements TextureAccess {
     @Shadow
-    NativeImage pixels;
+    private NativeImage pixels;
 
     private boolean enableHook = false;
 
