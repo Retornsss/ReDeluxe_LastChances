@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "re.deluxe.darkness.mixin",
+  "package": "re.deluxe.mixin",
   "compatibilityLevel": "JAVA_21",
   "client": [
   ],

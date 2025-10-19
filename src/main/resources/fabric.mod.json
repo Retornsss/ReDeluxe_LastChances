@@ -19,7 +19,7 @@
 			"re.deluxe.ReDeluxe"
 		],
 		"client": [
-			"re.deluxe.darkness.DarknessMod"
+			"re.deluxe.DarknessMod"
 		]
 	},
 	"mixins": [
